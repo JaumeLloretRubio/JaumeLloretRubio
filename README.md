@@ -1,7 +1,8 @@
 <!--
   JAYORU__ / NODE.SYS — GitHub profile README
   Repo: JaumeLloretRubio/JaumeLloretRubio (branch: main)
-  Assets live in ./assets — light + dark variants, swapped via <picture>.
+  Assets en ./assets — variantes light + dark, intercambiadas con <picture>.
+  Las secciones secundarias van dentro de <details> y arrancan plegadas.
 -->
 
 <div align="center">
@@ -15,15 +16,18 @@
 
 </div>
 
-```console
-$ ./jayoru.exe --boot --lang=es,en
+<details>
+<summary><code>$ ./jayoru.exe --boot --lang=es,en</code>&ensp;<sub><b>&#9656; click para ejecutar / click to run</b></sub></summary>
 
+<br>
+
+```console
 [ OK ]  mounting  /identidad ......... Jaume Lloret Rubio  ·  "Jayoru"
 [ OK ]  mounting  /rol ............... Tech Artist + Full-Stack
 [ OK ]  loading   /intereses ......... videojuegos, LLMs, sistemas, herramientas
 [ OK ]  loading   /estetica .......... brutalista · monocromo · sin adornos
 [ WRN ]  /tiempo_libre ............... saturado (por elección propia)
-[ OK ]  interfaz lista             ->  https://github.com/JaumeLloretRubio
+[ OK ]  interfaz lista             ->  https://jayoru.vercel.app
 
 --- EN ---------------------------------------------------------------
 [ OK ]  identity ................... Jaume Lloret Rubio  ·  "Jayoru"
@@ -33,6 +37,8 @@ $ ./jayoru.exe --boot --lang=es,en
 [ WRN ]  free_time ................. saturated (voluntarily)
 [ OK ]  interface ready
 ```
+
+</details>
 
 ---
 
@@ -52,7 +58,9 @@ $ ./jayoru.exe --boot --lang=es,en
 </div>
 
 <details>
-<summary><code>&gt; ver el mismo contenido como &#237;ndice / view as index</code></summary>
+<summary><code>$ ls ~/nodes --long</code>&ensp;<sub><b>&#9656; click para ver el &#237;ndice completo / click for the full index</b></sub></summary>
+
+<br>
 
 <div align="center">
 
@@ -63,11 +71,11 @@ $ ./jayoru.exe --boot --lang=es,en
 
 </div>
 
-</details>
-
 > **ES** — Seis nodos, un proceso. No cambian cuando cambian los proyectos: cambian los proyectos dentro de ellos.
 >
 > **EN** — Six nodes, one process. They don't change when the projects change — the projects change inside them.
+
+</details>
 
 ---
 
@@ -84,11 +92,12 @@ $ ./jayoru.exe --boot --lang=es,en
 
 ---
 
-## `>` MÉTODO / METHOD
+<details>
+<summary><code>$ cat ~/method.md</code>&ensp;<sub><b>&#9656; c&#243;mo investigo &#183; kill-driven, pre-registrado / how I research</b></sub></summary>
+
+<br>
 
 ```console
-$ cat ~/method.md   # kill-driven · pre-registrado
-
 [01]  AISLAR EL RIESGO PORTANTE
       Una sola pregunta decide el proyecto. Se responde antes de
       construir nada encima.
@@ -113,9 +122,12 @@ $ cat ~/method.md   # kill-driven · pre-registrado
       A pre-registered null is a result, not a failure.
 ```
 
----
+</details>
 
-## `>` TELEMETRÍA / TELEMETRY
+<details>
+<summary><code>$ jayoru --telemetry</code>&ensp;<sub><b>&#9656; commits, lenguajes, racha / stats, langs, streak</b></sub></summary>
+
+<br>
 
 <div align="center">
 
@@ -140,9 +152,12 @@ $ cat ~/method.md   # kill-driven · pre-registrado
 
 </div>
 
----
+</details>
 
-## `>` AHORA / NOW
+<details>
+<summary><code>$ tail -f ~/now.log</code>&ensp;<sub><b>&#9656; en qu&#233; ando ahora / what I'm on right now</b></sub></summary>
+
+<br>
 
 ```diff
 + construyendo   tooling de agentes + inferencia local
@@ -155,9 +170,12 @@ $ cat ~/method.md   # kill-driven · pre-registrado
 
 <sub>ES — este bloque se edita a mano cada pocos meses; el resto del README se actualiza solo.<br>EN — this block is hand-edited every few months; the rest of the README updates itself.</sub>
 
----
+</details>
 
-## `>` CONEXIÓN / CONNECT
+<details>
+<summary><code>$ ping jayoru --contact</code>&ensp;<sub><b>&#9656; portfolio, itch, hugging face, mail</b></sub></summary>
+
+<br>
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
@@ -174,8 +192,10 @@ $ cat ~/method.md   # kill-driven · pre-registrado
 [![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-000000?style=flat-square&labelColor=000000&color=000000)](https://huggingface.co/Jayoru)
 [![Mail](https://img.shields.io/badge/MAIL-000000?style=flat-square&labelColor=000000&color=000000)](mailto:jaulloru@gmail.com)
 
+</details>
+
 ---
 
 <div align="center">
-<sub><code>EOF · jayoru.exe halted · press any key to continue</code></sub>
+<sub><code>EOF · jayoru.exe halted · &#9656; despliega cualquier comando para seguir leyendo</code></sub>
 </div>
