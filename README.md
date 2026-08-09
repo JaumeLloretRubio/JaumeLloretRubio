@@ -9,8 +9,8 @@
 
 <a href="https://jayoru.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/banner-dark.svg">
-  <img alt="JAYORU — Tech Artist · Full-Stack · LLM Research" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="JAYORU — Tech Artist · Full-Stack · LLM Research" src="assets/banner-light.svg" width="100%">
 </picture>
 </a>
 
@@ -48,8 +48,8 @@
 
 <a href="https://jayoru.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/console-dark.svg">
-  <img alt="Sesión de consola de Jayoru — click para ir a jayoru.vercel.app" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/console-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/console-dark.svg">
+  <img alt="Sesión de consola de Jayoru — click para ir a jayoru.vercel.app" src="assets/console-light.svg" width="100%">
 </picture>
 </a>
 
@@ -65,8 +65,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/index-dark.svg">
-  <img alt="Índice de nodos de trabajo" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/index-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/index-dark.svg">
+  <img alt="Índice de nodos de trabajo" src="assets/index-light.svg" width="100%">
 </picture>
 
 </div>
@@ -84,8 +84,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/hud-dark.svg">
-  <img alt="Stack and system status" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/hud-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hud-dark.svg">
+  <img alt="Stack and system status" src="assets/hud-light.svg" width="100%">
 </picture>
 
 </div>
@@ -132,12 +132,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/stats-dark.svg">
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/stats-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub stats" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/langs-dark.svg">
-  <img alt="Top languages" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/langs-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+  <img alt="Top languages" src="assets/langs-light.svg" width="49%">
 </picture>
 
 <picture>
