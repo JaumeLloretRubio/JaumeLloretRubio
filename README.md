@@ -120,12 +120,12 @@ $ cat ~/method.md   # kill-driven · pre-registrado
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JaumeLloretRubio&show_icons=true&hide_title=true&hide_border=false&bg_color=00000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=0&rank_icon=percentile">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JaumeLloretRubio&show_icons=true&hide_title=true&hide_border=false&bg_color=00000000&border_color=000000&title_color=000000&text_color=000000&icon_color=000000&border_radius=0&rank_icon=percentile" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/stats-dark.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/stats-light.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumeLloretRubio&layout=compact&hide_title=true&langs_count=8&bg_color=00000000&border_color=FFFFFF&text_color=FFFFFF&border_radius=0">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumeLloretRubio&layout=compact&hide_title=true&langs_count=8&bg_color=00000000&border_color=000000&text_color=000000&border_radius=0" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/langs-dark.svg">
+  <img alt="Top languages" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/langs-light.svg" width="49%">
 </picture>
 
 <picture>
