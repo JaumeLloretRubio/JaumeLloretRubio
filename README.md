@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://jayoru.dev">
+<a href="https://jayoru.vercel.app">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/banner-dark.svg">
   <img alt="JAYORU — Tech Artist · Full-Stack · LLM Research" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/banner-light.svg" width="100%">
@@ -40,14 +40,14 @@ $ ./jayoru.exe --boot --lang=es,en
 
 <div align="center">
 
-<a href="https://jayoru.dev">
+<a href="https://jayoru.vercel.app">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/console-dark.svg">
-  <img alt="Sesión de consola de Jayoru — click para ir a jayoru.dev" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/console-light.svg" width="100%">
+  <img alt="Sesión de consola de Jayoru — click para ir a jayoru.vercel.app" src="https://raw.githubusercontent.com/JaumeLloretRubio/JaumeLloretRubio/main/assets/console-light.svg" width="100%">
 </picture>
 </a>
 
-<sub><code>los comandos se teclean solos &#183; click &#8594; jayoru.dev</code></sub>
+<sub><code>los comandos se teclean solos &#183; click &#8594; jayoru.vercel.app</code></sub>
 
 </div>
 
@@ -161,7 +161,7 @@ $ cat ~/method.md   # kill-driven · pre-registrado
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │  PORTFOLIO   jayoru.dev                                      │
+  │  PORTFOLIO   jayoru.vercel.app                               │
   │  GITHUB      github.com/JaumeLloretRubio                     │
   │  ITCH.IO     jayoru.itch.io                                  │
   │  HUGGINGFACE huggingface.co/Jayoru                           │
@@ -169,7 +169,7 @@ $ cat ~/method.md   # kill-driven · pre-registrado
   └──────────────────────────────────────────────────────────────┘
 ```
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&labelColor=000000&color=000000)](https://jayoru.dev)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&labelColor=000000&color=000000)](https://jayoru.vercel.app)
 [![itch.io](https://img.shields.io/badge/ITCH.IO-000000?style=flat-square&labelColor=000000&color=000000)](https://jayoru.itch.io)
 [![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-000000?style=flat-square&labelColor=000000&color=000000)](https://huggingface.co/Jayoru)
 [![Mail](https://img.shields.io/badge/MAIL-000000?style=flat-square&labelColor=000000&color=000000)](mailto:jaulloru@gmail.com)
